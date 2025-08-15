@@ -122,7 +122,7 @@ The portfolios listed below are recognized for their outstanding design, technic
 64. **[Jesse Zhou](https://jesse-zhou.com/)**  
     - *Created by Jesse Zhou*: A modern and visually appealing portfolio that emphasizes UX/UI design with clean lines and a well-organized structure. It showcases creative problem-solving skills and thoughtful 
        user-centered design.
-
+65.https://dribbble.com/shots/25085123-Brightman-Motion-Design
 ---
 
 ### Sources
